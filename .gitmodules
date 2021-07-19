@@ -1,0 +1,11 @@
+[submodule "src/openocd"]
+	path = src/openocd
+	url = https://github.com/andestech/nds-openocd.git
+	branch = bsp-v5_1_0-release
+[submodule "src/openocd_adapters"]
+	path = src/openocd_adapters
+	url = https://github.com/andestech/nds-openocd_adapters.git
+	branch = bsp-v5_1_0-release
+[submodule "src/libusb"]
+	path = src/libusb
+	url = https://github.com/libusb/libusb.git

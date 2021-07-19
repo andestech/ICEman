@@ -1,0 +1,27 @@
+
+============================
+Dependencies
+============================
+
+
+You'll also need:
+
+- make
+- libtool
+- pkg-config >= 0.23 (or compatible)
+
+Additionally, for building from git:
+
+- autoconf >= 2.64
+- automake >= 1.14
+
+
+
+============================
+Quickstart for the build
+============================
+
+git submodule init
+git submodule update
+./build.sh
+
